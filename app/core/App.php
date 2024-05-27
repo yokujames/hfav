@@ -3,7 +3,7 @@
 class App {
     /*Buat properti untuk class App */
     protected $controller = 'Home';
-    protected $method = 'Index';
+    protected $method = 'index';
     protected $params = [];
     public function __construct()
     {
